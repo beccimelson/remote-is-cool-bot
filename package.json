@@ -1,0 +1,15 @@
+{
+  "name": "remote-is-cool-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot for https://remoteis.cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Becci Melson",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "twit": "^2.2.9"
+  }
+}
